@@ -1,0 +1,2 @@
+# regex
+buat latihan regex
