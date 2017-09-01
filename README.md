@@ -1,4 +1,4 @@
 # regex
-buat latihan regex
+buat latihan rege
 
-blog : http://koponkmencarijanda.blogspot.co.id/
+blog : httpht
